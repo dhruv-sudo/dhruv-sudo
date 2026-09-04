@@ -1,5 +1,5 @@
 # 💫 About Me:
-ECE Undergrad @ DTU | AI/ML · Frontend · Open Source<br>Pre-final year student specializing in AI/ML and full-stack development.<br>AI/ML & LLMs : Machine Learning, Deep Learning, NLP, Generative AI, Model Fine-Tuning<br>Languages : Python, JavaScript, TypeScript, C++, SQL<br>Frameworks : React.js, Node.js, Express.js, FastAPI, PyTorch, TensorFlow<br>Cloud & DevOps : AWS, Docker, Git/GitHub, JIRA, Opsgenie, Grafana<br>Databases : MongoDB, MySQL<br>Achievements : 2nd @ Rabbitt AI Hackathon · Top 25 IIT Dharwad · EY Techathon Round 2 (200K+) · McKinsey Forward Program
+ECE Undergrad @ DTU | AI/ML · Frontend · Open Source<br>Final year student specializing in AI/ML and full-stack development.<br>AI/ML & LLMs : Machine Learning, Deep Learning, NLP, Generative AI, Model Fine-Tuning<br>Languages : Python, JavaScript, TypeScript, C++, SQL<br>Frameworks : React.js, Node.js, Express.js, FastAPI, PyTorch, TensorFlow<br>Cloud & DevOps : AWS, Docker, Git/GitHub, JIRA, Opsgenie, Grafana<br>Databases : MongoDB, MySQL<br>Achievements : 2nd @ Rabbitt AI Hackathon · Top 25 IIT Dharwad · EY Techathon Round 2 (200K+) · McKinsey Forward Program
 
 
 ## 🌐 Socials:
